@@ -6,7 +6,8 @@ Für Softwareentwickler
 ```
 Die Benutzer sind schuld  -
 das muss  man mal sagen - 
-sie klicken doof rum - und haben komische Namen - 
+sie klicken doof rum 
+und haben komische Namen - 
 
 - - Es funktionierte, als ichs kompilierte - 
 es bleibt dabei -
