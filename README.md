@@ -5,9 +5,9 @@ Für Softwareentwickler
 
 ```
 Die Benutzer sind schuld  -
-das muss  man mal sagen - 
+das muss man mal sagen - 
 sie klicken doof rum 
-und haben komische Namen - 
+und haben Fragen - 
 
 - - Es funktionierte, als ichs kompilierte - 
 es bleibt dabei -
